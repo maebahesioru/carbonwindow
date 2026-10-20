@@ -1,0 +1,58 @@
+{
+ "data": [
+  {
+   "from": "2026-09-30T23:30Z",
+   "to": "2026-10-01T00:00Z",
+   "intensity": {
+    "forecast": 157,
+    "actual": 179,
+    "index": "high"
+   }
+  },
+  {
+   "from": "2026-10-01T00:00Z",
+   "to": "2026-10-01T00:30Z",
+   "intensity": {
+    "forecast": 196,
+    "actual": 175,
+    "index": "high"
+   }
+  },
+  {
+   "from": "2026-10-01T00:30Z",
+   "to": "2026-10-01T01:00Z",
+   "intensity": {
+    "forecast": 189,
+    "actual": 175,
+    "index": "high"
+   }
+  },
+  {
+   "from": "2026-10-01T01:00Z",
+   "to": "2026-10-01T01:30Z",
+   "intensity": {
+    "forecast": 189,
+    "actual": 178,
+    "index": "high"
+   }
+  },
+  {
+   "from": "2026-10-01T01:30Z",
+   "to": "2026-10-01T02:00Z",
+   "intensity": {
+    "forecast": 181,
+    "actual": 174,
+    "index": "high"
+   }
+  },
+  {
+   "from": "2026-10-01T02:00Z",
+   "to": "2026-10-01T02:30Z",
+   "intensity": {
+    "forecast": 176,
+    "actual": 170,
+    "index": "high"
+   }
+  }
+ ]
+}

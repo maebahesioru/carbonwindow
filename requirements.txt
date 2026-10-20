@@ -1,0 +1,7 @@
+# CarbonWindow itself runs on the Python standard library alone: urllib for the API,
+# json for the snapshot, and hand-written SVG for the report. Nothing here is needed to
+# run the scheduler, the replay or the CLI.
+#
+# These two are only needed for the developer workflows:
+pytest>=8.0      # tests/
+pillow>=10.0     # docs/make_video_slides.py (renders the demo-video frames)

@@ -1,0 +1,8 @@
+fetched 48 half hours of forecast from 2026-10-20T04:30Z
+CI over the next 24 h: min 79 / mean 96.6 / max 136 gCO2/kWh
+
+job 1 h, deadline T+24 h
+run now     :    95.00 gCO2/kWh forecast  (04:30 UTC onward)
+best window :    79.50 gCO2/kWh forecast  (21:00 UTC onward, +16.5 h)
+reduction   :  16.32 % (forecast vs forecast)
+per 1 kWh:   95.0 ->   79.5 g (projected   15.5 g)

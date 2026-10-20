@@ -1,0 +1,6 @@
+fetch 2026-07-22T00:00Z .. 2026-10-20T04:00Z (90 days, chunks of <=14 days)
+  intervals      : 4329
+  grid slots     : 4329 (2164.5 h)
+  actual present : 4329 (100.0% coverage)
+  actual missing : 0
+wrote /home/maebahesioru/ダウンロード/sushi_money_research/実行/210_hackathons/climatechain2026/data/ci_90d.json

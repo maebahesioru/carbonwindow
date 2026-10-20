@@ -1,0 +1,9 @@
+snapshot      : /home/maebahesioru/ダウンロード/sushi_money_research/実行/210_hackathons/climatechain2026/data/ci_90d.json
+now (UTC)     : 2026-08-26 02:00
+job duration  : 1 h   deadline T+12 h
+decide on     : forecast
+
+run now       : mean    94.50 gCO2/kWh  (02:00 onward)
+best window   : mean    73.00 gCO2/kWh  (13:00 onward, +11 h)
+reduction     :  22.75 %
+per 1 kWh :    94.5 ->    73.0 gCO2 (saves   21.5 g)
